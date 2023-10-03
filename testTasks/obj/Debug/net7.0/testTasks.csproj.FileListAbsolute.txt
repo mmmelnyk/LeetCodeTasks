@@ -1,0 +1,15 @@
+/Users/mykola/Projects/testTasks/testTasks/bin/Debug/net7.0/testTasks
+/Users/mykola/Projects/testTasks/testTasks/bin/Debug/net7.0/testTasks.deps.json
+/Users/mykola/Projects/testTasks/testTasks/bin/Debug/net7.0/testTasks.runtimeconfig.json
+/Users/mykola/Projects/testTasks/testTasks/bin/Debug/net7.0/testTasks.dll
+/Users/mykola/Projects/testTasks/testTasks/bin/Debug/net7.0/testTasks.pdb
+/Users/mykola/Projects/testTasks/testTasks/obj/Debug/net7.0/testTasks.csproj.AssemblyReference.cache
+/Users/mykola/Projects/testTasks/testTasks/obj/Debug/net7.0/testTasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mykola/Projects/testTasks/testTasks/obj/Debug/net7.0/testTasks.AssemblyInfoInputs.cache
+/Users/mykola/Projects/testTasks/testTasks/obj/Debug/net7.0/testTasks.AssemblyInfo.cs
+/Users/mykola/Projects/testTasks/testTasks/obj/Debug/net7.0/testTasks.csproj.CoreCompileInputs.cache
+/Users/mykola/Projects/testTasks/testTasks/obj/Debug/net7.0/testTasks.dll
+/Users/mykola/Projects/testTasks/testTasks/obj/Debug/net7.0/refint/testTasks.dll
+/Users/mykola/Projects/testTasks/testTasks/obj/Debug/net7.0/testTasks.pdb
+/Users/mykola/Projects/testTasks/testTasks/obj/Debug/net7.0/testTasks.genruntimeconfig.cache
+/Users/mykola/Projects/testTasks/testTasks/obj/Debug/net7.0/ref/testTasks.dll
